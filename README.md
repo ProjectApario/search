@@ -1,5 +1,8 @@
 # Apario Search
 
+![Unique](https://counthis.app/github?repo=projectapario/search&label=Unique)
+![Impressions](https://counthis.app/github?user=projectapario&label=Impressions)
+
 This application performs full text gematria powered search against an output of the
 `apario-writer` project that exposes 2 endpoints, 1 REST and 1 WebSockets for /search and 
 /ws/search. The intent of this package is to be consumed by the upcoming upgrade to 
